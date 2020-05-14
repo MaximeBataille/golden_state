@@ -3,7 +3,7 @@
 This repository presents an analysis of Golden State's play during the 2017-2018 season. The study focuses more specifically
 on its offensive strength and its quator Curry, Durant, Thompson, Green.
 
-You can find the complete analysis within an article [here] 
+You can find the complete analysis within an article [here](https://medium.com/@bataillema/analyse-golden-state-saison-2017-2018-5de71cffe0c)
 
 # Packages
 
